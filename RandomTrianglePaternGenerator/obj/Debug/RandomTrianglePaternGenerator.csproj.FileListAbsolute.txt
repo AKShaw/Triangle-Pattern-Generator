@@ -1,0 +1,22 @@
+c:\users\ashaw\documents\visual studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\bin\Debug\RandomTrianglePaternGenerator.exe.config
+c:\users\ashaw\documents\visual studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\bin\Debug\RandomTrianglePaternGenerator.exe
+c:\users\ashaw\documents\visual studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\bin\Debug\RandomTrianglePaternGenerator.pdb
+c:\users\ashaw\documents\visual studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.csprojResolveAssemblyReference.cache
+c:\users\ashaw\documents\visual studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.Form1.resources
+c:\users\ashaw\documents\visual studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.Properties.Resources.resources
+c:\users\ashaw\documents\visual studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.csproj.GenerateResource.Cache
+c:\users\ashaw\documents\visual studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.exe
+c:\users\ashaw\documents\visual studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.pdb
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\bin\Debug\RandomTrianglePaternGenerator.exe.config
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.exe
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.pdb
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\bin\Debug\RandomTrianglePaternGenerator.exe
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\bin\Debug\RandomTrianglePaternGenerator.pdb
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.Form1.resources
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.Properties.Resources.resources
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\bin\Debug\RandomTrianglePaternGenerator.exe.manifest
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\bin\Debug\RandomTrianglePaternGenerator.application
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.exe.manifest
+D:\My Documents\Visual Studio 2013\Projects\RandomTrianglePaternGenerator\RandomTrianglePaternGenerator\obj\Debug\RandomTrianglePaternGenerator.application
